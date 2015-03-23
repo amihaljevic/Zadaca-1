@@ -1,0 +1,39 @@
+﻿/* selektor elementa */
+p {
+	background-color: aqua; 
+	color: red;
+}
+
+/* selektor klase */
+.stil1 {
+	color: blue;
+}
+
+/* selektor identifikacije */
+#inf {
+	color: green;
+}
+
+.podebljano {
+	font-weight: bold;
+	color: red;
+}
+
+.lijevi {
+	margin-left: 100px;
+	float: left;
+}
+
+.desni {
+	float: left;
+}
+
+.cisti {
+	clear: both;
+}
+
+.srednji {
+	float: left;
+	margin: 100px;
+	padding: 100px;
+}
